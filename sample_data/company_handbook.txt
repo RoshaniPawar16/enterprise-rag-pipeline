@@ -1,0 +1,146 @@
+ACME Corporation Employee Handbook
+Version 2.1 - January 2024
+
+==================================
+CHAPTER 1: COMPANY OVERVIEW
+==================================
+
+ACME Corporation was founded in 2010 by Jane Smith and John Davis in London, UK.
+The company specializes in enterprise software solutions for the healthcare and
+financial services sectors.
+
+Our mission is to simplify complex business processes through innovative technology.
+
+Current employee count: 450 across 3 offices (London, Edinburgh, Manchester).
+Annual revenue (2023): £45 million.
+
+==================================
+CHAPTER 2: EMPLOYMENT POLICIES
+==================================
+
+Working Hours
+-------------
+Standard working hours are 9:00 AM to 5:30 PM, Monday through Friday.
+Core hours (when all employees must be available): 10:00 AM to 4:00 PM.
+Flexible working arrangements are available upon manager approval.
+
+Remote Work Policy
+------------------
+Employees may work remotely up to 3 days per week after completing their
+probation period (typically 3 months). Remote work requests must be submitted
+through the HR portal at least 48 hours in advance.
+
+Annual Leave
+------------
+- Standard entitlement: 25 days per year plus UK bank holidays
+- After 3 years of service: 28 days per year
+- After 5 years of service: 30 days per year
+
+Unused leave can be carried over (maximum 5 days) to the following year.
+
+Sick Leave
+----------
+Employees are entitled to full pay for up to 10 sick days per year.
+A doctor's note is required for absences exceeding 3 consecutive days.
+
+==================================
+CHAPTER 3: COMPENSATION & BENEFITS
+==================================
+
+Salary Reviews
+--------------
+Salary reviews are conducted annually in April. Performance ratings directly
+impact salary adjustments:
+- Exceeds expectations: 5-8% increase
+- Meets expectations: 2-4% increase
+- Below expectations: No increase, performance improvement plan initiated
+
+Pension Scheme
+--------------
+ACME offers a defined contribution pension scheme:
+- Employee contribution: Minimum 5%
+- Employer contribution: 8% (matching up to 10% if employee contributes 7%+)
+
+Health Insurance
+----------------
+Comprehensive private health insurance is provided through Vitality Health.
+Coverage includes:
+- Medical treatment
+- Dental care (up to £500/year)
+- Optical care (up to £200/year)
+- Mental health support (unlimited sessions)
+
+==================================
+CHAPTER 4: PROFESSIONAL DEVELOPMENT
+==================================
+
+Training Budget
+---------------
+Each employee has an annual training budget of £2,000 for:
+- Conferences and workshops
+- Online courses and certifications
+- Books and learning materials
+
+Unused budget does not carry over to the next year.
+
+Mentorship Programme
+--------------------
+New employees are paired with a senior mentor for their first 6 months.
+Mentors meet with mentees at least twice per month.
+
+Career Progression
+------------------
+ACME uses a 6-level career framework:
+- Level 1-2: Junior roles
+- Level 3-4: Mid-level roles
+- Level 5: Senior individual contributor or Team Lead
+- Level 6: Director or Principal
+
+Promotions are reviewed bi-annually (April and October).
+
+==================================
+CHAPTER 5: IT & SECURITY POLICIES
+==================================
+
+Password Requirements
+---------------------
+- Minimum 12 characters
+- Must include uppercase, lowercase, numbers, and symbols
+- Changed every 90 days
+- No reuse of last 10 passwords
+
+Data Classification
+-------------------
+All company data must be classified as:
+- Public: Can be shared externally
+- Internal: For ACME employees only
+- Confidential: Restricted to specific teams
+- Highly Confidential: Board and executive level only
+
+GDPR Compliance
+---------------
+As a UK company, ACME fully complies with GDPR requirements.
+Personal data training is mandatory for all employees annually.
+Data breaches must be reported to IT Security within 24 hours.
+
+==================================
+CHAPTER 6: CONTACT INFORMATION
+==================================
+
+HR Department: hr@acme-corp.example.com
+IT Support: helpdesk@acme-corp.example.com
+Facilities: facilities@acme-corp.example.com
+
+Emergency Contact: +44 20 7123 4567
+
+London Office (HQ):
+123 Innovation Street
+London EC2A 4BQ
+
+Edinburgh Office:
+45 Castle Road
+Edinburgh EH1 2AB
+
+Manchester Office:
+78 Northern Quarter
+Manchester M4 1EW
